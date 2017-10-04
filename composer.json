@@ -1,0 +1,15 @@
+{
+    "name": "components/requirejs-text",
+    "type": "component",
+    "version": "2.0.15",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "text.js"
+            ]
+        }
+    }
+}
